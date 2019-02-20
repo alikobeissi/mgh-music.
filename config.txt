@@ -1,0 +1,6 @@
+owner=541246537603481601
+prefix=mj
+game=play
+stayinchannel=true
+songinstatus=false
+token=NTQ3ODIyODIyMzUzOTI4MjEy.D08XSw.lZrJxOFCU-rWXSnH2FSxXGzhwPQ
